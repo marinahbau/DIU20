@@ -10,8 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  [Marina H. B](http://github.com/marinahbau/DIU20)    :octocat:     
+ * :bust_in_silhouette:  [ Román L. L](http://github.com/romanlarrosa/DIU20)    :octocat:
 
 ----- 
 
