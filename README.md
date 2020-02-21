@@ -3,15 +3,15 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1_01AABB.  Curso: 2019/20 
 
-Proyecto: Marina
+Proyecto: PRUEBA 3434343434
 
-Descripción: 
+Descripción: ninguna
 
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  [Marina H. B](http://github.com/marinahbau/DIU20)    :octocat:     
+ * :bust_in_silhouette:  [ Román L. L](http://github.com/romanlarrosa/DIU20)    :octocat:
 
 ----- 
 
