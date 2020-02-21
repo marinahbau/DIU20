@@ -5,7 +5,7 @@ Grupo: DIU1_01AABB.  Curso: 2019/20
 
 Proyecto: PRUEBA 3434343434
 
-Descripción: 
+Descripción: una descripcion
 
 Logotipo: 
 
