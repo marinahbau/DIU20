@@ -1,3 +1,0 @@
-Para lanzar la aplicación hay que situarse con el terminal en esta carpeta y escribir:
-
-appletviewer SCACV.html
