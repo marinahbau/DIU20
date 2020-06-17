@@ -1,0 +1,30 @@
+Sharee es una propuesta de servicio para publicar o buscar piso con la que pretendemos marcar una diferencia ante sus competidores.
+Para diseñar Sharee hemos seguido un organizado proceso de diseño:
+
+	A través de un análisis de diseño elegiríamos el principal competidor: Badi, que sería el servicio a superar.
+
+	Creando a dos personas ficticias: Ashley y Guillermo, evaluamos los procesos principales de Badi, obteniendo posibles aspectos a mejorar.
+
+	Evaluamos Badi a fondo, especialmente su diseño de interfaz, a través de un Usability Review. 
+	Para nuestra sorpresa, pudimos encontrar puntos críticos en el servicio.
+
+	Agrupando los diferentes puntos a evaluar en un Capture Grid,
+	logramos identificar fácilmente qué malas prácticas no queríamos llevar a cabo en Sharee y qué funcionalidades marcarían la diferencia.
+
+Sharee se diferenciaría de Badi implementando las siguientes funcionalidades:
+
+	-Las búsquedas con filtros personalizados ahora pueden guardarse
+	-Los anuncios pueden marcarse como favoritos para visitarlos más tarde
+	-Ahora podemos reseñar y valorar a los distintos tipos de usuarios en Sharee
+
+A continuación, creamos un sitemap con todas las caracterísitcas y los task flow de los procesos a añadir:
+
+Añadiendo un documento de labelling, definíamos todos los componentes y los representábamos con iconos facilmente identificables.
+Necesitábamos un diseño con un mayor nivel de detalle para hacernos una idea de cómo iba a lucir Sharee, así que elaboramos estos wireframes.
+
+Un diseño puntero y moderno es necesario para que la aplicación destaque. Por ello nos documentamos con las guidelines de Google y establecemos diversas decisiones:
+Algunas de las decisiones de diseño más importantes las agrupamos, a modo de conclusión, en este Style Guide.
+
+Quédate en este github y descubre más sobre nuestra propuesta.
+
+
